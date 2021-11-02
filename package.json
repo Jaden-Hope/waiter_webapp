@@ -1,0 +1,22 @@
+{
+  "name": "waiter_webapp",
+  "version": "1.0.0",
+  "description": "An app for managing waiter shifts",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaden Hope",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaden-Hope/waiter_webapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jaden-Hope/waiter_webapp/issues"
+  },
+  "homepage": "https://github.com/Jaden-Hope/waiter_webapp#readme"
+}

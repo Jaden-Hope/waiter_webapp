@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: cyan;
+    padding: 10px;
+    border-bottom: solid 3px rgb(0, 174, 174);
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    border: 3px solid rgb(173, 89, 58);
+    border-radius: 10px;
+    margin: 0 20px 0 20px;
+    padding: 10px;
+    background-color: rgb(221, 108, 67);
+}
+
+.btn {
+    color: black;
+    text-decoration: none;
+    background-color: silver;
+    border: solid 2px rgb(133, 133, 133);
+    border-radius: 5px;
+    padding: 4px;
+    margin-left: 10px;
+}
+
+.btn:hover {
+    background-color: rgb(133, 133, 133);
+}
+
+.adminBtn {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
